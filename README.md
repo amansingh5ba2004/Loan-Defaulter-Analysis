@@ -1,7 +1,5 @@
-Here is an enhanced and professional version of your content, formatted for a `README.md` file. This version emphasizes clarity, structure, and insight-driven storytelling to appeal to both technical and business readers:
 
 ---
-
 # 🏦 Bank Loan Default Analysis & Target Customer Segmentation
 
 ## 📌 Objective
@@ -116,8 +114,6 @@ This end-to-end analysis empowers banks to:
 * Leverage behavioral patterns (like past refusals) to inform future lending decisions.
 
 ---
-
-Let me know if you'd like to:
 
 * Include Jupyter Notebook screenshots or sample plots
 * Add model performance if predictive modeling was done
